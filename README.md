@@ -11,7 +11,7 @@ My primary research question is whether respondents who believed that COVID-19 w
 This project uses four waves of the Pew Research Center's American Trends Panel (ultimately focusing on the first three):
 
 - **Wave 23 (November-December 2016):** Contains respondents' reported presidential vote in the 2016 presidential election.
-- **Wave 63.5 (March 2020):** Contains information about respondents' COVID-19 beliefs, misinformation exposure, political affiliation, ideology, and demographic characteristics.
+- **Wave 63.5 (March 2020):** Contains information about respondents' COVID-19 origin beliefs, political affiliation, ideology, and demographic characteristics.
 - **Wave 78 (November 2020):** Contains respondents' reported vote choice in the 2020 presidential election.
 - **Wave 79 (November 2020):** Contains respondents’ reported exposure to misinformation about the 2020 election.
 
